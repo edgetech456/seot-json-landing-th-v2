@@ -1,0 +1,280 @@
+{
+    "pages": [
+        {
+            "page_title": "หน้าแรก",
+            "page_slug": "home",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "u31th.webp",
+                        "url": ""
+                    }
+                ],
+                "user-profile": 1,
+                "game-providers": 1,
+                "content": "",
+                "faq": []
+            }
+        },
+        {
+            "page_title": "สล็อต",
+            "page_slug": "slot",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 0,
+                "top-brand": 1,
+                "banner": [],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "สล็อตเว็บตรง",
+            "page_slug": "direct-web-slot",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "ดาวน์โหลด",
+            "page_slug": "download",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "โปรโมชั่น",
+            "page_slug": "promotion",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "วีไอพี",
+            "page_slug": "vip",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "วิธีการชำระเงิน",
+            "page_slug": "payment-method",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        { 
+            "page_title": "“คู่มือ U31",
+            "page_slug": "guide",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        { 
+            "page_title": "ความช่วยเหลือ U31",
+            "page_slug": "help",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "disclaimer": [
+        {
+            "page_title": "การพนันอย่างมีความรับผิดชอบ",
+            "page_slug": "responsible-gambling",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "นโยบายความเป็นส่วนตัว",
+            "page_slug": "privacy-policy",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "ข้อกำหนดและเงื่อนไข",
+            "page_slug": "terms",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "top-brand": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
