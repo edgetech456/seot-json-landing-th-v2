@@ -11,7 +11,7 @@ if( $data === 'on' || $data === 1 ) {
                 <?php 
                 $brand = $top_brands[SITE_KEY];
                 // $brand_title = $brand['title'];
-                $brand_title = "WIN111";
+                $brand_title = "MJ96";
                 $brand_desc = $brand['description'];
                 // $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
                 $brand_thumbnail = assets_url().'top_brand/top_brand_mj96.webp';
