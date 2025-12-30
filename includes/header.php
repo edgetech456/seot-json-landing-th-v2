@@ -71,7 +71,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                         
                                         $home_active = ( trim($current_url, SITE_KEY) === "" ) ? ' active' : '';?>
                                         <li class="nav-item home nav-item-0">
-                                            <a href="<?php echo home_url();?>" class="nav-link<?php echo $home_active;?>">Home</strong></a>
+                                            <a href="<?php echo home_url();?>" class="nav-link<?php echo $home_active;?>">หน้าแรก</strong></a>
                                         </li>
                                         <?php 
                                         $menu_items = get_the_menu_items('pages');
