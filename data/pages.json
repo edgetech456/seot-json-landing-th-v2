@@ -19,7 +19,15 @@
                 "user-profile": 1,
                 "game-providers": 1,
                 "content": "",
-                "faq": []
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -32,12 +40,15 @@
                 "top-brand": 1,
                 "banner": [],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -49,12 +60,15 @@
                 "marquee": 1,
                 "top-brand": 1,
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -66,12 +80,15 @@
                 "marquee": 1,
                 "top-brand": 1,
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -91,12 +108,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -116,12 +136,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -141,12 +164,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         { 
@@ -166,12 +192,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         { 
@@ -191,12 +220,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         }
     ],
@@ -218,12 +250,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -243,12 +278,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         },
         {
@@ -268,12 +306,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         }
     ]
