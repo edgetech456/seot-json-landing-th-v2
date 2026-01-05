@@ -7,8 +7,8 @@
             <div class="col-12 px-4">
                 <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                     <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                        <a href="<?php echo $data['register'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#">Join</a>
-                        <a href="<?php echo $data['login'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#">Login</a>
+                        <a href="<?php echo $data['register'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#">เข้าร่วม</a>
+                        <a href="<?php echo $data['login'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#">เข้าสู่ระบบ</a>
                     </div>
                     <div class="d-flex m-0 p-0 w-100">
                         <div class="col-7 px-0 pe-2">
@@ -28,13 +28,13 @@
                                 <a href="<?php echo $data['deposit'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0" src="<?php echo assets_url();?>/icon-deposit.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">เงินฝาก</span>
                                     </div>
                                 </a>
                                 <a href="<?php echo $data['withdraw'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-withdrawal.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">ถอน</span>
                                         <div class="sequence-line">
                                             <span> </span>
                                             <span> </span>
@@ -47,7 +47,7 @@
                                 <a href="<?php echo $data['refresh'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-refresh.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">Refresh</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">รีเฟรช</span>
                                     </div>
                                 </a>
                             </div>

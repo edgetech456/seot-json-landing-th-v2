@@ -27,7 +27,7 @@ if( $data === 'on' || $data === 1 ) {
                             <p class="mb-0">'.$brand_desc.'</p>
                         </div>
                         <div class="col col-cta pt-3">
-                            <a href="'.$brand_link.'" class="btn btn-visit"'.$disabled.' target="_blank" rel="nofollow noreferrer noopener"><span>VISIT</span></strong></a>
+                            <a href="'.$brand_link.'" class="btn btn-visit"'.$disabled.' target="_blank" rel="nofollow noreferrer noopener"><span>เยี่ยมชม</span></strong></a>
                         </div>
                     </div>
                 </div>';
