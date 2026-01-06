@@ -86,7 +86,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $path = explode('/', $current_url);
                                             $is_active = ($path[1] === trim($item['page_slug'], '/')) ? ' active' : '';
                                         ?>
-                                            <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>" data-path="<?= $path;?>">
+                                            <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
                                                 <a href="<?php echo home_url().'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
                                             </li>
                                         <?php
