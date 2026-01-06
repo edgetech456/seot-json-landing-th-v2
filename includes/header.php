@@ -82,10 +82,20 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $index = intval($key)+1;
                                             $title = $item['page_title'];
                                             $target = isset($item['target']) ? $item['target'] : '_self';
-                                            $path = explode('/', $current_url);
-                                            $is_active = ($path[1] === trim($item['page_slug'], '/')) ? ' active' : '';
+                                            if( is_localhost() ) { 
+                                                // localhost/u31th.asia/download
+                                                // current_url == u31th.asia/download
+                                                $temp = explode('/', $current_url);
+                                                $path = $temp[1];
+                                            }
+                                            else { 
+                                                // u31th.asia/download
+                                                // current_url == downnload
+                                                $path = $current_url;
+                                            }
+                                            $is_active = ($path === trim($item['page_slug'], '/')) ? ' active' : '';
                                         ?>
-                                            <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>" data-path="<?= $path;?>">
+                                            <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
                                                 <a href="<?php echo home_url().'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
                                             </li>
                                         <?php
