@@ -3,7 +3,7 @@
 $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ), true);
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
     <head>
     <?php echo get_page_meta_tags($page);?>
     <meta name="robots" content="noindex, nofollow">
