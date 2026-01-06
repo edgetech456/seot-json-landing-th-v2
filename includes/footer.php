@@ -9,7 +9,7 @@
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Promotion">
                         <span class="text-center">Promotion</span>
                     </strong></a>
-                    <a href="<?php echo home_url();?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="https://mj96referral.com/?r=18542726ab" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
                         <span class="text-center">Referrer</span>
                     </strong></a>

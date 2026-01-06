@@ -12,15 +12,15 @@
                     </div>
                     <div class="d-flex m-0 p-0 w-100">
                         <div class="col-7 px-0 pe-2">
-                            <div class="text-0-75">Main Balance:</div>
-                            <div class="text-1-3 text-weight-700 text-primary">MYR&nbsp; <span class="setWallet-homepage d-inline-block" style="width: max-content">0.00</span></div>
+                            <div class="text-0-75">ยอดเงินคงเหลือหลัก:</div>
+                            <div class="text-1-3 text-weight-700 text-primary">THB&nbsp; <span class="setWallet-homepage d-inline-block" style="width: max-content">0.00</span></div>
                             <div class="d-flex m-0 p-0 text-0-75">
-                                <div class="col-6 px-0">Min Depo</div>
-                                <div class="col px-0">:&nbsp;MYR&nbsp;30.00</div>
+                                <div class="col-6 px-0">เงินฝากขั้นต่ำ</div>
+                                <div class="col px-0">:&nbsp;231&nbsp;THB</div>
                             </div>
                             <div class="d-flex m-0 p-0 text-0-75">
-                                <div class="col-6 px-0">Min Withdraw</div>
-                                <div class="col px-0">:&nbsp;MYR&nbsp;50.00</div>
+                                <div class="col-6 px-0">ถอนขั้นต่ำ</div>
+                                <div class="col px-0">:&nbsp;385&nbsp;THB</div>
                             </div>
                         </div>
                         <div class="col-5 px-0 ">
