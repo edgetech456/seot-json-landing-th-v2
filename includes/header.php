@@ -6,7 +6,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
 <html lang="th">
     <head>
     <?php echo get_page_meta_tags($page);?>
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="<?php echo home_url();?>">
     <link rel="icon" type="image/png" href="<?php echo home_url().'/assets/images/favicon/'.SITE_KEY.'_favicon.ico';?>" />
