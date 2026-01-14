@@ -3,19 +3,19 @@
                 <div class="row px-3 px-md-4 py-2 m-auto w-100">
                     <a href="<?php echo home_url();?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-home.png" class="icon img-fit" alt="Home">
-                        <span class="text-center">Home</span>
+                        <span class="text-center">บ้าน</span>
                     </strong></a>
                     <a href="<?php echo home_url();?>/promotions" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Promotion">
-                        <span class="text-center">Promotion</span>
+                        <span class="text-center">การส่งเสริม</span>
                     </strong></a>
                     <a href="https://mj96referral.com/?r=20eda04f2b" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
-                        <span class="text-center">Referrer</span>
+                        <span class="text-center">ผู้แนะนำ</span>
                     </strong></a>
                     <a href="<?php echo home_url();?>/help" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-live_chat.png" class="icon img-fit" alt="Live Chat">
-                        <span class="text-center">Live Chat</span>
+                        <span class="text-center">แชทสด</span>
                     </strong></a>
                 </div>
                 <script type="text/javascript" src="<?php echo home_url();?>/assets/js/jquery-3.7.1.min.js"></script>
